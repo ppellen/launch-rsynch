@@ -1,0 +1,17 @@
+#     sources 
+
+/home/pp/Documents
+/home/pp/dev
+/home/pp/.pyzo
+/home/pp/pico
+/home/pp/ash
+/home/pp/Bureau
+/home/pp/Musique
+/home/pp/.ssh
+/home/pp/Images
+/home/pp/Vidéos
+/home/pp/Modèles
+/home/pp/Public
+/home/pp/Téléchargements
+# /home/pp/appimage   # surtout pas
+
